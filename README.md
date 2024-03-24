@@ -1,5 +1,7 @@
-### Hi there 👋
-
+# Hi there 👋
+## I am currently learning Python with CoGrammar! 
+### *With more than 10 years banking experience particularly in anti-fraud and financial crime, I've decided to add an important skill to my career - coding!*  
+### *Please watch this space as I progress!*
 <!--
 **jolspor/jolspor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
